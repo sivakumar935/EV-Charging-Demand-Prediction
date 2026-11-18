@@ -1,0 +1,34 @@
+Feature,Mean_Absolute_SHAP
+num__HourCos,2.489520917950236
+cat__ChargerType_0,2.006236093881758
+cat__ChargerCompany_0,0.9214711156691535
+num__Hour,0.5266728556192539
+cat__Location_hotel,0.4108412794115764
+cat__Location_apartment,0.27082881332947145
+cat__Location_market,0.2394428821010355
+num__WeekOfYear,0.22632046819524845
+num__Minute,0.1811994602868072
+cat__Location_public area,0.15148431544274357
+num__MonthCos,0.14479290148293372
+cat__Location_public institution,0.1387262621065617
+num__HourSin,0.13036835569343677
+cat__Location_restaurant,0.1301085318958678
+num__Day,0.12460601759014532
+num__DayOfWeek,0.10363258300096787
+cat__Location_camping,0.10068312182998049
+cat__Location_resort,0.098169334045687
+cat__Location_public parking lot,0.093069254268636
+cat__Location_company,0.07976589100096898
+num__DayOfWeekSin,0.0648074655474862
+num__MonthSin,0.051922975633002376
+num__Month,0.04427838117866485
+num__DayOfWeekCos,0.03559393002089055
+cat__Location_golf,0.03528918820680117
+cat__ChargerCompany_1,0.01866505336314438
+num__Year,0.005042701787315308
+cat__Location_sightseeing,0.004660504979558755
+num__Quarter,0.0
+cat__Location_accommodation,0.0
+num__IsWeekend,0.0
+cat__Location_bus garage,0.0
+cat__ChargerType_1,0.0

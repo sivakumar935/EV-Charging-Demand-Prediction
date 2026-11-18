@@ -1,0 +1,34 @@
+Feature,Importance
+num__Minute,491
+num__Hour,296
+num__Day,257
+num__WeekOfYear,246
+num__HourCos,177
+num__HourSin,167
+cat__ChargerCompany_0,120
+num__DayOfWeek,119
+num__MonthCos,111
+cat__ChargerType_0,101
+num__MonthSin,81
+cat__Location_market,81
+cat__Location_public area,77
+num__DayOfWeekSin,74
+cat__Location_hotel,70
+cat__Location_apartment,68
+num__DayOfWeekCos,59
+cat__Location_camping,57
+cat__Location_public institution,54
+num__Month,54
+cat__Location_restaurant,51
+cat__Location_company,49
+cat__Location_resort,43
+cat__Location_sightseeing,25
+cat__Location_accommodation,22
+cat__Location_golf,22
+cat__Location_public parking lot,20
+num__Year,7
+cat__ChargerCompany_1,1
+num__Quarter,0
+num__IsWeekend,0
+cat__Location_bus garage,0
+cat__ChargerType_1,0
